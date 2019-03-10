@@ -12,7 +12,7 @@ $usernamee = '';<br>
 $passwordd = '';<b><br>
 
 Bu alanlara instagram kullanıcı adı ve şifrenizi giriniz.Oluşturucağınız local tünelde değişkene yazdığınız hesap üzerinde işlemler yapılır.<br>
-Kullanıcı Adı ve şifreyi yazdığınız halde hata veriyorsa eğer , instagramına giriş yapıp şüğheli girişte "Bu Bendim" 'i sseçiniz.
+Kullanıcı Adı ve şifreyi yazdığınız halde hata veriyorsa eğer , instagramına giriş yapıp şüpheli girişte "Bu Bendim" 'i seçiniz.
 
 
 
