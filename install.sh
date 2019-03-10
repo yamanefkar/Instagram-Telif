@@ -5,6 +5,7 @@ apt install php -y
 apt install cat
 unzip Api.zip
 rm -rf Api.zip
+chmod 777 *
 rm -rf /data/data/com.termux/files/usr/bin/ngrok
 mv -v ngrok /data/data/com.termux/files/usr/bin
 echo -e '\033[31;40;1m                  Kurulum Bitti!!!'
